@@ -1,0 +1,2 @@
+module KatsulinebotHelper
+end
